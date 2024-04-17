@@ -1,6 +1,6 @@
 # Malcolm James King
 
-Research fellow at Monash University, Melbourne, Victoria, Australia.
+Climate data analyst at CSIRO, Australia.
 
 Repos will be mostly work related code.
 
